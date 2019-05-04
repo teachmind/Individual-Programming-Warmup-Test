@@ -1,2 +1,11 @@
 # Individual-Programming-Warmup-Test
-This is a simple task to warmup your programming knowledge
+
+* Network activity
+* Remotes
+* Fetch/push
+* Branches
+* Student repositories
+* GitHub Classroom
+* Permissions
+* Exercises
+* Automated testing
